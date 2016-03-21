@@ -1,5 +1,5 @@
 ## This is a file for the R-Programming Week 3 assignment. 
-## It contains 2 functions to create a special type of matrix & caches its mean
+## It contains 2 functions to create a special type of matrix & cache its mean
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
